@@ -1,0 +1,14 @@
+Machine Learning (ML) is a branch of Artificial Intelligence that enables computers to learn from data and make decisions or predictions without being explicitly programmed for every task.
+
+Instead of writing fixed rules, developers train ML models using large amounts of data. The system then identifies patterns and improves its performance over time. For example, a machine learning model can learn to recognize spam emails, recommend movies, or even detect diseases from medical images.
+
+There are three main types of machine learning:
+
+* **Supervised Learning**: The model is trained on labeled data (e.g., predicting house prices based on past data).
+* **Unsupervised Learning**: The model finds patterns in unlabeled data (e.g., customer segmentation).
+* **Reinforcement Learning**: The model learns by interacting with an environment and receiving rewards or penalties (used in robotics and gaming).
+
+Popular tools and libraries used in ML include TensorFlow, Scikit-learn, and PyTorch.
+
+Machine learning is widely used in real-world applications such as voice assistants, recommendation systems, fraud detection, self-driving cars, and more. It is one of the fastest-growing and most impactful areas in technology today.
+    
