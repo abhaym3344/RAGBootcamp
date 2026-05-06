@@ -26,4 +26,5 @@ wikipedia
 langgraph
 ipykernel
 msoffcrypto-tool
+langchain_classic
 
